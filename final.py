@@ -1,11 +1,38 @@
-import os
 import sqlite3
-
+import json
+import os
 import requests
 
 # Brandon's API/Secret key
 API_KEY = '8rNWQrEyOuNVDs1EtEmRKpkqGPhXMfErpAMxI1uSqfWwfM1CWs'
 SECRET_KEY = 'O39nMA96aRPvNyERjDnWrcVufBnPU1axEfZQZ8j7'
+
+# Maps API Key
+MAPS_API_KEY = 'AIzaSyDnyhvFfr0OyyFSj7cbhj58Xgi7ogPcTA8'
+
+
+def db_setup(db_name):
+    path = os.path.dirname(os.path.abspath(__file__))
+    conn = sqlite3.connect(path + '/' + db_name)
+    cur = conn.cursor()
+    return cur, conn
+
+
+def create_dogs_table(cur, conn):
+    cur.execute('CREATE TABLE IF NOT EXISTS dogs ('
+                # Unique Primary ID
+                'id INTEGER PRIMARY KEY,'
+                'name TEXT, '
+                'age TEXT, '
+                'gender TEXT, '
+                'city TEXT,'
+                'state TEXT,'
+                'primary_breed TEXT, '
+                'secondary_breed TEXT, '
+                'mixed_breed TEXT,'
+                'unknown_breed TEXT)')
+
+    conn.commit()
 
 
 def get_oauth_token(API_KEY, SECRET_KEY):
@@ -32,28 +59,32 @@ def get_oauth_token(API_KEY, SECRET_KEY):
         return token
 
 
-def get_adopted_dogs(token, location):
+def query_petfinder(token, cityState, cur, conn):
     # Set the endpoint URL
     ENDPOINT = 'https://api.petfinder.com/v2/animals'
 
-    # Request data
-    params = {
-        'type': 'dog',
-        'location': location,
-        'limit': 25,  # LIMIT RESULTS TO 25
-        'after': '2020-01-01T00:00:00Z'
-    }
+    # Keep track of page we're on
+    page = 1
 
-    # Set the token in the header
-    headers = {
-        'Authorization': f'Bearer {token}'
-    }
+    # Flag indicating if we've reached the last page
+    has_more_pages = True
 
-    # Empty list to store the dogs
-    dogs = []
+    # Loop until we we reach last page
+    while has_more_pages:
+        # Request data
+        params = {
+            'type': 'dog',
+            'page': page,
+            'location': cityState,
+            'distance': 150,
+            'limit': 25  # LIMITED RESULTS TO 25
+        }
 
-    # Keep making requests until we have all the dogs since 2020
-    while True:
+        # Add the token to the request headers
+        headers = {
+            'Authorization': f'Bearer {token}'
+        }
+
         # Make the request
         r = requests.get(ENDPOINT, params=params, headers=headers)
 
@@ -62,47 +93,54 @@ def get_adopted_dogs(token, location):
             print(f'Request failed with status code {r.status_code}')
             break
 
-        # Add the dogs from the response to the list
+        # Get the response data
         data = r.json()
-        dogs.extend(data['animals'])
 
-        # If there are more dogs available, update the pagination parameters
-        # and make another request. Otherwise, break.
-        if data['pagination']['total_pages'] > data['pagination']['current_page']:
-            params['page'] = data['pagination']['current_page'] + 1
-        else:
-            break
+        # Loop through the results
+        for dog in data['animals']:
+            id = dog['id']
+            name = dog['name']
+            age = dog['age']
+            gender = dog['gender']
+            location = dog['contact']['address']
+            city = location['city']
+            state = location['state']
+            primary_breed = dog['breeds']['primary']
+            secondary_breed = dog['breeds']['secondary']
+            mixed_breed = dog['breeds']['mixed']  # BOOLEAN
+            unknown_breed = dog['breeds']['unknown']  # BOOLEAN
 
-    # Return the list of dogs
-    return dogs
+            # Check if dog is from MI
+            if state == 'MI':
+                # Insert a row into the dogs table
+                cur.execute('INSERT OR IGNORE INTO dogs VALUES (?,?,?,?,?,?,?,?,?,?)',
+                            (id, name, age, gender, city, state, primary_breed, secondary_breed, mixed_breed,
+                             unknown_breed))
 
+        # Check if there are more pages
+        has_more_pages = data['pagination']['total_pages'] > page
 
-def add_dogs_to_db(dogs):
-    # Connect to the database
-    path = os.path.dirname(os.path.abspath(__file__))
-    conn = sqlite3.connect(path + '/' + 'adopted_dogs.db')
-    cur = conn.cursor()
+        # Increment the page number
+        page += 1
 
-    # Create the table if it does not already exist
-    cur.execute('CREATE TABLE IF NOT EXISTS dogs (id INTEGER PRIMARY KEY, name TEXT, breed TEXT, age TEXT)')
-
-    # Add each dog to the table
-    for dog in dogs:
-        cur.execute('INSERT INTO dogs (id, name, age) VALUES (?, ?, ?)', (dog['id'], dog['name'], dog['age']))
-
-    # Commit the changes
+    # Commit the changes to the database
     conn.commit()
-
-    # Close the connection
-    conn.close()
 
 
 if __name__ == '__main__':
     # Get the token
     token = get_oauth_token(API_KEY, SECRET_KEY)
 
-    # Get the dogs
-    dogs = get_adopted_dogs(token, 'Ann Arbor, MI')
+    # Set up the database
+    cur, conn = db_setup('dogs.db')
 
-    # Add the dogs to the database
-    add_dogs_to_db(dogs)
+    # Create the dogs table
+    create_dogs_table(cur, conn)
+
+    # Query the API
+    query_petfinder(token, 'Saginaw, MI', cur, conn)
+
+    # Close the connection to the database
+    conn.close()
+
+    print('Done!')
