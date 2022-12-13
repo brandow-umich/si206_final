@@ -1,0 +1,1005 @@
+Address,Most Popular Breed,Number of Dogs
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Pit Bull Terrier,68
+"Imlay City, MI 48444",Belgian Shepherd / Malinois,57
+"Saginaw, MI 48602",Pit Bull Terrier,53
+"Detroit, MI 48202",Pit Bull Terrier,47
+"14345 Bagley St , West Olive, MI 49460",Mixed Breed,46
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Terrier,44
+"6955 West KL Ave Pet Rescue & Adoption Center, Kalamazoo, MI 49009",Mixed Breed,40
+"3279 E Laketon Ave , Muskegon, MI 49442",Mixed Breed,39
+"3077 Wilson Dr. NW Walker, MI 49534, Grand Rapids, MI 49534",Mixed Breed,35
+"16121 Reckinger Road , Dearborn, MI 48121",Mixed Breed,25
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Pit Bull Terrier,25
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Pit Bull Terrier,25
+"Warren, MI 48089",Pit Bull Terrier,20
+"07591 Blue Star Hwy , South Haven, MI 49090",Mixed Breed,19
+"2752 W. Bennington Road , Owosso, MI 48867",Mixed Breed,17
+"3279 E Laketon Ave , Muskegon, MI 49442",Labrador Retriever,17
+"Grand Rapids, MI 49503",Mixed Breed,17
+"219 Peekstock Drive , Kalamazoo, MI 49001",Hound,15
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",American Staffordshire Terrier,15
+"Birmingham, MI 48012",Terrier,15
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Mixed Breed,14
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Terrier,13
+"Imlay City, MI 48444",Dutch Shepherd,13
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Mixed Breed,11
+"2293 33rd Street , Allegan, MI 49010",Mixed Breed,11
+"7095 West Grand River Avenue , Lansing, MI 48906",Mixed Breed,11
+"7887 Chrysler Drive , Detroit, MI 48211",Pit Bull Terrier,10
+"Grand Rapids, MI 49525",Weimaraner,10
+"614 Beardsley St. , Boyne City, MI 49712",Pit Bull Terrier,9
+"Charlotte, MI 48813",Mixed Breed,9
+"Ferndale, MI 48220",Hound,9
+"Holly, MI 48442",Mixed Breed,9
+"Livonia, MI 48152",Labrador Retriever,9
+"Macomb, MI 48042",Shepherd,9
+"Muskegon, MI 49442",Shepherd,9
+"St Johns, MI 48879",Mixed Breed,9
+"3390 S Dog Track Rd. , Baldwin, MI 49304",Pit Bull Terrier,8
+"Clinton Township, MI 48036",Pit Bull Terrier,8
+"Detroit, MI 48202",American Bulldog,8
+"Detroit, MI 48216",Terrier,8
+"Grand Rapids, MI 49548",Australian Cattle Dog / Blue Heeler,8
+"Oak Park, MI 48237",American Staffordshire Terrier,8
+"Saginaw, MI 48603",Pit Bull Terrier,8
+"Birmingham, MI 48012",Boxer,7
+"Ferndale, MI 48220",German Shepherd Dog,7
+"Grand Rapids, MI 49505",American Staffordshire Terrier,7
+"Metamora, MI 48455",Mixed Breed,7
+"Muskegon, MI 49442",Chihuahua,7
+"Muskegon, MI 49442",Labrador Retriever,7
+"Oxford, MI 48371",Pit Bull Terrier,7
+"Warren, MI 48089",German Shepherd Dog,7
+"1316 Lamont Ave , Kalamazoo, MI 49001",Pit Bull Terrier,6
+"27796 John R , Madison Heights, MI 48071",Terrier,6
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Mixed Breed,6
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Labrador Retriever,6
+"Birmingham, MI 48012",Labrador Retriever,6
+"Detroit, MI 48219",Pit Bull Terrier,6
+"Eastpointe, MI 48021",Pit Bull Terrier,6
+"Ferndale, MI 48220",Labrador Retriever,6
+"Macomb, MI 48042",Terrier,6
+"Muskegon, MI 49442",Australian Kelpie,6
+"P.O. Box 233 , Belleville, MI 48111",Pit Bull Terrier,6
+"P.O. Box 51935 , Livonia, MI 48151",Pit Bull Terrier,6
+"Plymouth, MI 48170",Hound,6
+"Saginaw, MI 48603",Boxer,6
+"Troy, MI 48099",American Staffordshire Terrier,6
+"Westland, MI 48185",Pit Bull Terrier,6
+"White Lake, MI 48386",American Staffordshire Terrier,6
+"13569 Joseph Campau , Detroit, MI 48212",Pit Bull Terrier,5
+"Detroit, MI 48219",Mixed Breed,5
+"Livonia, MI 48152",Beagle,5
+"Muskegon, MI 49442",German Shepherd Dog,5
+"Oak Park, MI 48237",Pit Bull Terrier,5
+"PO Box 180155 , Utica, MI 48318",Terrier,5
+"Plymouth, MI 48170",Terrier,5
+"11350 22 Mile Road , Utica, MI 48317",Pit Bull Terrier,4
+"1300 West Conway Road , Harbor Springs, MI 49740",Pit Bull Terrier,4
+"1406 6th Ave , Cadillac, MI 49601",Labrador Retriever,4
+"165 S. Union , Battle Creek, MI 49014",Terrier,4
+"18400 220th Avenue , Big Rapids, MI 49307",Pit Bull Terrier,4
+"219 Peekstock Drive , Kalamazoo, MI 49001",Mixed Breed,4
+"2266 N Lapeer Road , Lapeer, MI 48446",Mixed Breed,4
+"2293 33rd Street , Allegan, MI 49010",German Shepherd Dog,4
+"2293 33rd Street , Allegan, MI 49010",Pit Bull Terrier,4
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",German Shepherd Dog,4
+"3279 E Laketon Ave , Muskegon, MI 49442",American Bulldog,4
+"3279 E Laketon Ave , Muskegon, MI 49442",Husky,4
+"3279 E Laketon Ave , Muskegon, MI 49442",Shepherd,4
+"3365 Freeland Road , Saginaw, MI 48604",Staffordshire Bull Terrier,4
+"3750 Foco Rd PO Box 1131, Standish, MI 48658",Pit Bull Terrier,4
+"51299 Arkona Rd. , Belleville, MI 48111",Pit Bull Terrier,4
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Hound,4
+"8935 Thompson Rd. , Lake Odessa, MI 48849",German Shepherd Dog,4
+"Detroit, MI 48216",Labrador Retriever,4
+"Eagle, MI 48822",Border Collie,4
+"Ferndale, MI 48220",American Bulldog,4
+"Flint, MI 48503",American Staffordshire Terrier,4
+"Gladwin, MI 48624",Husky,4
+"Grand Rapids, MI 49505",Pit Bull Terrier,4
+"Grand Rapids, MI 49505",Whippet,4
+"Grosse Pointe Park, MI 48230",Great Pyrenees,4
+"Muskegon, MI 49442",Dachshund,4
+"Muskegon, MI 49442",Weimaraner,4
+"New Baltimore, MI 48047",Pit Bull Terrier,4
+"P.O. Box 194 , Wayne, MI 48184",Greyhound,4
+"PO Box 285 , Frankenmuth, MI 48734",American Staffordshire Terrier,4
+"PO Box 475 7645 West 48th Street, Fremont, MI 49412",Pit Bull Terrier,4
+"Plymouth, MI 48170",Chihuahua,4
+"Warren, MI 48089",Terrier,4
+"White Lake, MI 48386",Pit Bull Terrier,4
+"l536 Hackleburg Road , Cheboygan, MI 49721",Pit Bull Terrier,4
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Labrador Retriever,3
+"11350 22 Mile Road , Utica, MI 48317",American Staffordshire Terrier,3
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Australian Cattle Dog / Blue Heeler,3
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Labrador Retriever,3
+"1367 S. M-33 , West Branch, MI 48661",American Staffordshire Terrier,3
+"18400 220th Avenue , Big Rapids, MI 49307",Mixed Breed,3
+"21417 Dunham Road , Clinton Township, MI 48036",Pit Bull Terrier,3
+"219 Peekstock Drive , Kalamazoo, MI 49001",Husky,3
+"219 Peekstock Drive , Kalamazoo, MI 49001",Terrier,3
+"2293 33rd Street , Allegan, MI 49010",Boxer,3
+"2293 33rd Street , Allegan, MI 49010",Husky,3
+"2293 33rd Street , Allegan, MI 49010",Labrador Retriever,3
+"2738 W. Caro Road , Caro, MI 48723",American Staffordshire Terrier,3
+"305 N.Meyers Road , Ludington, MI 49431",Pit Bull Terrier,3
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",German Shepherd Dog,3
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Hound,3
+"3279 E Laketon Ave , Muskegon, MI 49442",Spaniel,3
+"3279 E Laketon Ave , Muskegon, MI 49442",Terrier,3
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",Pit Bull Terrier,3
+"4038 Hazel Drive , Harrison, MI 48625",Pit Bull Terrier,3
+"4371 E. Ashman , Midland, MI 48641",Mixed Breed,3
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Pit Bull Terrier,3
+"6955 West KL Ave Pet Rescue & Adoption Center, Kalamazoo, MI 49009",Pit Bull Terrier,3
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Siberian Husky,3
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Pit Bull Terrier,3
+"969 Wildwood Rd , Quincy, MI 49082",Boxer,3
+"969 Wildwood Rd , Quincy, MI 49082",Labrador Retriever,3
+"Battle Creek, MI 49017",Husky,3
+"Birmingham, MI 48012",American Bulldog,3
+"Clinton Township, MI 48036",Beagle,3
+"Clinton Township, MI 48036",Boxer,3
+"Clinton Township, MI 48036",Labrador Retriever,3
+"Clinton Township, MI 48036",Terrier,3
+"Deerfield, MI 49238",Mixed Breed,3
+"Detroit, MI 48216",German Shepherd Dog,3
+"Detroit, MI 48219",American Staffordshire Terrier,3
+"Gladwin, MI 48624",Alaskan Malamute,3
+"Grand Rapids, MI 49505",Labrador Retriever,3
+"Livonia, MI 48152",Chihuahua,3
+"Livonia, MI 48152",Poodle,3
+"Macomb, MI 48042",Labrador Retriever,3
+"Manistee, MI 49660",Pit Bull Terrier,3
+"Marine City, MI 48039",Pit Bull Terrier,3
+"Metamora, MI 48455",Pit Bull Terrier,3
+"Muskegon, MI 49442",Boxer,3
+"Muskegon, MI 49442",Miniature Pinscher,3
+"New Baltimore, MI 48047",Labrador Retriever,3
+"P.O. Box 190121 , Burton, MI 48519",American Staffordshire Terrier,3
+"P.O. Box 233 , Belleville, MI 48111",American Staffordshire Terrier,3
+"P.O. Box 233 , Belleville, MI 48111",Cane Corso,3
+"PO Box 180155 , Utica, MI 48318",American Staffordshire Terrier,3
+"PO Box 475 7645 West 48th Street, Fremont, MI 49412",Beagle,3
+"PO Box 606 , Garden City, MI 48136",American Staffordshire Terrier,3
+"Plymouth, MI 48170",German Shepherd Dog,3
+"Plymouth, MI 48170",Labrador Retriever,3
+"Pontiac, MI 48341",Belgian Shepherd / Malinois,3
+"Pontiac, MI 48341",Terrier,3
+"Traverse City, MI 49684",Labrador Retriever,3
+"Traverse City, MI 49696",Mixed Breed,3
+"Warren, MI 48089",Great Dane,3
+"White Lake, MI 48386",Border Collie,3
+"White Lake, MI 48386",Labrador Retriever,3
+"fennville, MI 49408",Pit Bull Terrier,3
+"07591 Blue Star Hwy , South Haven, MI 49090",Boxer,2
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",American Bulldog,2
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Boxer,2
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Pit Bull Terrier,2
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Terrier,2
+"1170 GROVE STREET , Wyandotte, MI 48192",American Bulldog,2
+"1170 GROVE STREET , Wyandotte, MI 48192",Boxer,2
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",American Bulldog,2
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Boxer,2
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Shepherd,2
+"1300 West Conway Road , Harbor Springs, MI 49740",Labrador Retriever,2
+"1300 West Conway Road , Harbor Springs, MI 49740",Mixed Breed,2
+"1316 Lamont Ave , Kalamazoo, MI 49001",Siberian Husky,2
+"1367 S. M-33 , West Branch, MI 48661",Pit Bull Terrier,2
+"1515 Carmen Drive , Jackson, MI 49202",German Shepherd Dog,2
+"1515 Carmen Drive , Jackson, MI 49202",McNab,2
+"1515 Carmen Drive , Jackson, MI 49202",Shepherd,2
+"18400 220th Avenue , Big Rapids, MI 49307",Husky,2
+"185 Panther Dr , Holland, MI 49424",Spitz,2
+"2120 Metamora Road , Oxford, MI 48371",Mixed Breed,2
+"21417 Dunham Road , Clinton Township, MI 48036",Boxer,2
+"219 Peekstock Drive , Kalamazoo, MI 49001",Corgi,2
+"219 Peekstock Drive , Kalamazoo, MI 49001",Pit Bull Terrier,2
+"2266 N Lapeer Road , Lapeer, MI 48446",Hound,2
+"2266 N Lapeer Road , Lapeer, MI 48446",Terrier,2
+"2640 Marquette  Avenue , Muskegon, MI 49442",Labrador Retriever,2
+"2640 Marquette  Avenue , Muskegon, MI 49442",Shepherd,2
+"2752 W. Bennington Road , Owosso, MI 48867",Boxer,2
+"27796 John R , Madison Heights, MI 48071",Chihuahua,2
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",American Bulldog,2
+"3279 E Laketon Ave , Muskegon, MI 49442",Australian Shepherd,2
+"3279 E Laketon Ave , Muskegon, MI 49442",Black Labrador Retriever,2
+"3279 E Laketon Ave , Muskegon, MI 49442",Chocolate Labrador Retriever,2
+"3279 E Laketon Ave , Muskegon, MI 49442",German Shepherd Dog,2
+"3279 E Laketon Ave , Muskegon, MI 49442",Rat Terrier,2
+"3279 E Laketon Ave , Muskegon, MI 49442",Yellow Labrador Retriever,2
+"3365 Freeland Road , Saginaw, MI 48604",Pit Bull Terrier,2
+"3378 Griswold Road , Port Huron, MI 48060",Pit Bull Terrier,2
+"3384 9th St. , Monroe, MI 48162",Greyhound,2
+"418 S. Highlander Way , Howell, MI 48843",Pit Bull Terrier,2
+"418 S. Highlander Way , Howell, MI 48843",Staffordshire Bull Terrier,2
+"502 N. SAVIDGE , Reed City, MI 49677",Plott Hound,2
+"5205 Airline Rd , Muskegon, MI 49443",Husky,2
+"5205 Airline Rd , Muskegon, MI 49443",Labrador Retriever,2
+"600 Buhl St , Mason, MI 48854",Pit Bull Terrier,2
+"6266 Lapeer Road , Clyde, MI 48049",Pit Bull Terrier,2
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",German Shepherd Dog,2
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Labrador Retriever,2
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Border Collie,2
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Catahoula Leopard Dog,2
+"969 Wildwood Rd , Quincy, MI 49082",Black Labrador Retriever,2
+"Allen Park, MI 48101",American Staffordshire Terrier,2
+"Almont, MI 48003",Bullmastiff,2
+"Battle Creek, MI 49016",Pit Bull Terrier,2
+"Birmingham, MI 48012",Border Collie,2
+"Birmingham, MI 48012",German Shepherd Dog,2
+"Birmingham, MI 48012",Retriever,2
+"Birmingham, MI 48012",Shepherd,2
+"Boon, MI 49618",Siberian Husky,2
+"Clinton Township, MI 48036",Shepherd,2
+"Coldwater, MI 49036",Labrador Retriever,2
+"Deerfield, MI 49238",Shepherd,2
+"Detroit, MI 48202",Chihuahua,2
+"Detroit, MI 48202",German Shepherd Dog,2
+"Detroit, MI 48216",Doberman Pinscher,2
+"Detroit, MI 48221",Havanese,2
+"East Lansing, MI 48823",Terrier,2
+"Eastpointe, MI 48021",American Staffordshire Terrier,2
+"Ferndale, MI 48220",American Staffordshire Terrier,2
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Mastiff,2
+"Gladwin, MI 48624",German Shepherd Dog,2
+"Gladwin, MI 48624",Labrador Retriever,2
+"Gladwin, MI 48624",Siberian Husky,2
+"Grand Rapids, MI 49505",Mixed Breed,2
+"Grand Rapids, MI 49548",German Shepherd Dog,2
+"Grand Rapids, MI 49548",Labrador Retriever,2
+"Grosse Pointe Park, MI 48230",Chihuahua,2
+"Grosse Pointe Park, MI 48230",Terrier,2
+"Harrison, MI 48625",Chihuahua,2
+"Harrison, MI 48625",Standard Poodle,2
+"Imlay City, MI 48444",Belgian Shepherd / Tervuren,2
+"Kalamazoo, MI 49009",White German Shepherd,2
+"Kentwood, MI 49548",Pit Bull Terrier,2
+"Linden, MI 48451",Border Collie,2
+"Livonia, MI 48152",American Bulldog,2
+"Livonia, MI 48152",American Staffordshire Terrier,2
+"Livonia, MI 48152",Pit Bull Terrier,2
+"Livonia, MI 48152",Shepherd,2
+"Livonia, MI 48152",Terrier,2
+"Macomb, MI 48042",Black Labrador Retriever,2
+"Macomb, MI 48042",Chocolate Labrador Retriever,2
+"Macomb, MI 48042",German Shepherd Dog,2
+"Mancelona, MI 49659",American Staffordshire Terrier,2
+"Manistee, MI 49660",German Shepherd Dog,2
+"Metamora, MI 48455",Catahoula Leopard Dog,2
+"Metamora, MI 48455",Chocolate Labrador Retriever,2
+"Metamora, MI 48455",Hound,2
+"Milan, MI 48160",Rottweiler,2
+"Muskegon, MI 49442",Pug,2
+"Muskegon, MI 49442",Wheaten Terrier,2
+"Oakland, MI 48363",Siberian Husky,2
+"Oakland, MI 48363",Yorkshire Terrier,2
+"Oxford, MI 48371",Beagle,2
+"Oxford, MI 48371",Shepherd,2
+"P.O. Box 190121 , Burton, MI 48519",American Bulldog,2
+"P.O. Box 190121 , Burton, MI 48519",Pit Bull Terrier,2
+"P.O. Box 190121 , Burton, MI 48519",Terrier,2
+"P.O. Box 29 , Armada, MI 48005",Chihuahua,2
+"P.O. Box 29 , Armada, MI 48005",Labrador Retriever,2
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",American Staffordshire Terrier,2
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Terrier,2
+"PO Box 180155 , Utica, MI 48318",Feist,2
+"PO Box 180155 , Utica, MI 48318",Labrador Retriever,2
+"PO Box 1953 , Traverse City, MI 49685",Pit Bull Terrier,2
+"PO Box 285 , Frankenmuth, MI 48734",Pit Bull Terrier,2
+"PO Box 3295 2938 Business One Drive, Kalamazoo, MI 49003",Pit Bull Terrier,2
+"Plymouth, MI 48170",Pit Bull Terrier,2
+"Reed City, MI 49677",German Shepherd Dog,2
+"Saginaw, MI 48602",Labrador Retriever,2
+"Saginaw, MI 48602",Mastiff,2
+"Saginaw, MI 48602",Staffordshire Bull Terrier,2
+"Saginaw, MI 48603",American Staffordshire Terrier,2
+"Sanford, MI 48657",Boxer,2
+"Sterling Heights, MI 48313",Pit Bull Terrier,2
+"Traverse City, MI 49684",Pit Bull Terrier,2
+"Traverse City, MI 49696",Boxer,2
+"Troy, MI 48083",American Staffordshire Terrier,2
+"Warren, MI 48089",Akita,2
+"Warren, MI 48089",American Bulldog,2
+"Warren, MI 48089",American Staffordshire Terrier,2
+"Warren, MI 48089",Jack Russell Terrier,2
+"Warren, MI 48089",Labrador Retriever,2
+"Warren, MI 48091",Pomeranian,2
+"West Bloomfield, MI 48325",Pit Bull Terrier,2
+"West Bloomfield, MI 48325",Terrier,2
+"White Lake, MI 48386",Boxer,2
+"White Lake, MI 48386",German Shepherd Dog,2
+"l536 Hackleburg Road , Cheboygan, MI 49721",Mixed Breed,2
+"07591 Blue Star Hwy , South Haven, MI 49090",Chow Chow,1
+"07591 Blue Star Hwy , South Haven, MI 49090",Husky,1
+"1 , Ann Arbor, MI 48103",Siberian Husky,1
+"1 , Lincoln Park, MI 48146",Siberian Husky,1
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Australian Cattle Dog / Blue Heeler,1
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Bull Terrier,1
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Great Dane,1
+"1105 S. Isabella Road , Mount Pleasant, MI 48858",Shepherd,1
+"1110 Short Drive Prudenville, Prudenville, MI 48651",Bluetick Coonhound,1
+"1110 Short Drive Prudenville, Prudenville, MI 48651",Husky,1
+"1110 Short Drive Prudenville, Prudenville, MI 48651",Pit Bull Terrier,1
+"11350 22 Mile Road , Utica, MI 48317",Mixed Breed,1
+"1170 GROVE STREET , Wyandotte, MI 48192",Vizsla,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Akita,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",American Bully,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Australian Kelpie,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Border Collie,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Mastiff,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Mountain Cur,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Pharaoh Hound,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Shar-Pei,1
+"1200 N. Telegraph Building 42 East, Pontiac, MI 48341",Siberian Husky,1
+"12000 Durham St. , Washington, MI 48095",Catahoula Leopard Dog,1
+"12000 Durham St. , Washington, MI 48095",Pit Bull Terrier,1
+"1300 West Conway Road , Harbor Springs, MI 49740",Mastiff,1
+"1300 West Conway Road , Harbor Springs, MI 49740",Shepherd,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",Black Mouth Cur,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",German Shepherd Dog,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",Great Dane,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",Hound,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",Labrador Retriever,1
+"1316 Lamont Ave , Kalamazoo, MI 49001",Shiba Inu,1
+"13569 Joseph Campau , Detroit, MI 48212",Doberman Pinscher,1
+"13575 N. Fenton Rd , Fenton, MI 48430",Chihuahua,1
+"13575 N. Fenton Rd , Fenton, MI 48430",Great Dane,1
+"13575 N. Fenton Rd , Fenton, MI 48430",Mixed Breed,1
+"13575 N. Fenton Rd , Fenton, MI 48430",Pit Bull Terrier,1
+"1367 S. M-33 , West Branch, MI 48661",Belgian Shepherd / Malinois,1
+"1367 S. M-33 , West Branch, MI 48661",German Shepherd Dog,1
+"1367 S. M-33 , West Branch, MI 48661",Treeing Walker Coonhound,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Beagle,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Chihuahua,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Hound,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Pharaoh Hound,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Staffordshire Bull Terrier,1
+"13800 15 Mile Rd. , Sterling Heights, MI 48312",Terrier,1
+"13888 Blair St , Holland, MI 49424",Boxer,1
+"13888 Blair St , Holland, MI 49424",Shar-Pei,1
+"1406 6th Ave , Cadillac, MI 49601",Bluetick Coonhound,1
+"1406 6th Ave , Cadillac, MI 49601",Pit Bull Terrier,1
+"14345 Bagley St , West Olive, MI 49460",Boxer,1
+"150 Waterstradt-Commerce Drive , Dundee, MI 48131",Cattle Dog,1
+"150 Waterstradt-Commerce Drive , Dundee, MI 48131",Pit Bull Terrier,1
+"1515 Carmen Drive , Jackson, MI 49202",American Bulldog,1
+"1515 Carmen Drive , Jackson, MI 49202",Beagle,1
+"1515 Carmen Drive , Jackson, MI 49202",Hound,1
+"1515 Carmen Drive , Jackson, MI 49202",Husky,1
+"1515 Carmen Drive , Jackson, MI 49202",Labrador Retriever,1
+"1515 Carmen Drive , Jackson, MI 49202",Mixed Breed,1
+"1515 Carmen Drive , Jackson, MI 49202",Pit Bull Terrier,1
+"1515 Carmen Drive , Jackson, MI 49202",Siberian Husky,1
+"1515 Carmen Drive , Jackson, MI 49202",Whippet,1
+"16083 E 9 Mile Rd , Eastpointe, MI 48021",Mixed Breed,1
+"18400 220th Avenue , Big Rapids, MI 49307",Coonhound,1
+"18400 220th Avenue , Big Rapids, MI 49307",Golden Retriever,1
+"185 Panther Dr , Holland, MI 49424",Cattle Dog,1
+"185 Panther Dr , Holland, MI 49424",Husky,1
+"185 Panther Dr , Holland, MI 49424",Labrador Retriever,1
+"185 Panther Dr , Holland, MI 49424",Mixed Breed,1
+"185 Panther Dr , Holland, MI 49424",Pit Bull Terrier,1
+"185 Panther Dr , Holland, MI 49424",Pomeranian,1
+"2120 Metamora Road , Oxford, MI 48371",Akita,1
+"2120 Metamora Road , Oxford, MI 48371",American Bulldog,1
+"2120 Metamora Road , Oxford, MI 48371",Beagle,1
+"2120 Metamora Road , Oxford, MI 48371",Boxer,1
+"2120 Metamora Road , Oxford, MI 48371",English Bulldog,1
+"2120 Metamora Road , Oxford, MI 48371",Golden Retriever,1
+"2120 Metamora Road , Oxford, MI 48371",Great Dane,1
+"2120 Metamora Road , Oxford, MI 48371",Labrador Retriever,1
+"2120 Metamora Road , Oxford, MI 48371",Shepherd,1
+"2120 Metamora Road , Oxford, MI 48371",Staffordshire Bull Terrier,1
+"21417 Dunham Road , Clinton Township, MI 48036",American Bulldog,1
+"21417 Dunham Road , Clinton Township, MI 48036",American Staffordshire Terrier,1
+"21417 Dunham Road , Clinton Township, MI 48036",German Shepherd Dog,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",Black Labrador Retriever,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",Boxer,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",Chihuahua,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",Poodle,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",Terrier,1
+"217 N. Fiske Road Mailing address only, Coldwater, MI 49036",West Highland White Terrier / Westie,1
+"2185 W. Baseline Road , Shelby, MI 49455",Boxer,1
+"2185 W. Baseline Road , Shelby, MI 49455",Husky,1
+"2185 W. Baseline Road , Shelby, MI 49455",Labrador Retriever,1
+"2185 W. Baseline Road , Shelby, MI 49455",Plott Hound,1
+"21860 Van Horn , Woodhaven, MI 48183",Australian Cattle Dog / Blue Heeler,1
+"21860 Van Horn , Woodhaven, MI 48183",Pit Bull Terrier,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Boxer,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Chihuahua,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Chocolate Labrador Retriever,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Feist,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Jack Russell Terrier,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Retriever,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Shepherd,1
+"219 Peekstock Drive , Kalamazoo, MI 49001",Siberian Husky,1
+"2260 S. Elkton Road , Elkton, MI 48731",Boxer,1
+"2260 S. Elkton Road , Elkton, MI 48731",German Shepherd Dog,1
+"2260 S. Elkton Road , Elkton, MI 48731",Husky,1
+"2260 S. Elkton Road , Elkton, MI 48731",Rat Terrier,1
+"2266 N Lapeer Road , Lapeer, MI 48446",English Bulldog,1
+"2266 N Lapeer Road , Lapeer, MI 48446",Shepherd,1
+"2266 N Lapeer Road , Lapeer, MI 48446",Staffordshire Bull Terrier,1
+"2293 33rd Street , Allegan, MI 49010",American Staffordshire Terrier,1
+"2293 33rd Street , Allegan, MI 49010",Beagle,1
+"2293 33rd Street , Allegan, MI 49010",English Bulldog,1
+"2293 33rd Street , Allegan, MI 49010",Great Pyrenees,1
+"2293 33rd Street , Allegan, MI 49010",Mastiff,1
+"2293 33rd Street , Allegan, MI 49010",Puggle,1
+"2293 33rd Street , Allegan, MI 49010",Shar-Pei,1
+"2293 33rd Street , Allegan, MI 49010",Yellow Labrador Retriever,1
+"23451 Pinewood Street , Warren, MI 48091",Pit Bull Terrier,1
+"23451 Pinewood Street , Warren, MI 48091",Terrier,1
+"253 James Ave SE , Grand Rapids, MI 49503",Pug,1
+"25503 Clara Lane , Southfield, MI 48034",Australian Shepherd,1
+"25503 Clara Lane , Southfield, MI 48034",Cattle Dog,1
+"25503 Clara Lane , Southfield, MI 48034",Labrador Retriever,1
+"25503 Clara Lane , Southfield, MI 48034",Rottweiler,1
+"25503 Clara Lane , Southfield, MI 48034",Shepherd,1
+"25503 Clara Lane , Southfield, MI 48034",Staffordshire Bull Terrier,1
+"25503 Clara Lane , Southfield, MI 48034",Terrier,1
+"25799 Third St. , Grosse Ile, MI 48138",French Bulldog,1
+"25799 Third St. , Grosse Ile, MI 48138",Staffordshire Bull Terrier,1
+"25799 Third St. , Grosse Ile, MI 48138",Terrier,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",American Bulldog,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",American Staffordshire Terrier,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",Australian Shepherd,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",Cattle Dog,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",Mixed Breed,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",Pit Bull Terrier,1
+"2640 Marquette  Avenue , Muskegon, MI 49442",Terrier,1
+"2675 W. Washington Road , Ithaca, MI 48847",American Bully,1
+"2675 W. Washington Road , Ithaca, MI 48847",Pit Bull Terrier,1
+"2738 W. Caro Road , Caro, MI 48723",American Bully,1
+"2738 W. Caro Road , Caro, MI 48723",Labrador Retriever,1
+"2738 W. Caro Road , Caro, MI 48723",Siberian Husky,1
+"2752 W. Bennington Road , Owosso, MI 48867",Catahoula Leopard Dog,1
+"2752 W. Bennington Road , Owosso, MI 48867",Coonhound,1
+"2752 W. Bennington Road , Owosso, MI 48867",English Bulldog,1
+"2752 W. Bennington Road , Owosso, MI 48867",Spaniel,1
+"27796 John R , Madison Heights, MI 48071",Labrador Retriever,1
+"27796 John R , Madison Heights, MI 48071",Mixed Breed,1
+"27796 John R , Madison Heights, MI 48071",Presa Canario,1
+"27796 John R , Madison Heights, MI 48071",Shepherd,1
+"27942 Woodward Ave , Royal Oak, MI 48073",Pit Bull Terrier,1
+"303 Valley Ave. , Alma, MI 48801",Belgian Shepherd / Malinois,1
+"303 Valley Ave. , Alma, MI 48801",Chihuahua,1
+"303 Valley Ave. , Alma, MI 48801",Coonhound,1
+"303 Valley Ave. , Alma, MI 48801",Harrier,1
+"303 Valley Ave. , Alma, MI 48801",Pit Bull Terrier,1
+"305 N.Meyers Road , Ludington, MI 49431",Golden Retriever,1
+"305 N.Meyers Road , Ludington, MI 49431",Labrador Retriever,1
+"305 N.Meyers Road , Ludington, MI 49431",Mastiff,1
+"305 N.Meyers Road , Ludington, MI 49431",White German Shepherd,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",American Bulldog,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Border Collie,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Bull Terrier,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Cattle Dog,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Flat-Coated Retriever,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Labrador Retriever,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Retriever,1
+"3100 Cherry Hill Road , Ann Arbor, MI 48105",Shepherd,1
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Anatolian Shepherd,1
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Boxer,1
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Cane Corso,1
+"323 M-62 North PO Box 132, Cassopolis, MI 49031",Labrador Retriever,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Alaskan Malamute,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Cane Corso,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Catahoula Leopard Dog,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Coonhound,1
+"3279 E Laketon Ave , Muskegon, MI 49442",English Bulldog,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Mastiff,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Rottweiler,1
+"3279 E Laketon Ave , Muskegon, MI 49442",Whippet,1
+"3365 Freeland Road , Saginaw, MI 48604",American Bulldog,1
+"3365 Freeland Road , Saginaw, MI 48604",American Staffordshire Terrier,1
+"3365 Freeland Road , Saginaw, MI 48604",Labrador Retriever,1
+"3365 Freeland Road , Saginaw, MI 48604",Shepherd,1
+"3365 Freeland Road , Saginaw, MI 48604",Terrier,1
+"3378 Griswold Road , Port Huron, MI 48060",American Bulldog,1
+"3378 Griswold Road , Port Huron, MI 48060",Beagle,1
+"3378 Griswold Road , Port Huron, MI 48060",Border Collie,1
+"3378 Griswold Road , Port Huron, MI 48060",Coonhound,1
+"3378 Griswold Road , Port Huron, MI 48060",Corgi,1
+"3378 Griswold Road , Port Huron, MI 48060",Miniature Pinscher,1
+"3378 Griswold Road , Port Huron, MI 48060",Pug,1
+"3390 S Dog Track Rd. , Baldwin, MI 49304",Anatolian Shepherd,1
+"3390 S Dog Track Rd. , Baldwin, MI 49304",Boxer,1
+"3390 S Dog Track Rd. , Baldwin, MI 49304",Husky,1
+"3390 S Dog Track Rd. , Baldwin, MI 49304",Rottweiler,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",American Bulldog,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",Beagle,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",Black Labrador Retriever,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",Boxer,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",German Wirehaired Pointer,1
+"35 Campbell Rd. 65 N. Elk St., Sandusky, MI 48471",Hound,1
+"3750 Foco Rd PO Box 1131, Standish, MI 48658",Husky,1
+"3750 Foco Rd PO Box 1131, Standish, MI 48658",Labrador Retriever,1
+"3750 Foco Rd PO Box 1131, Standish, MI 48658",Rottweiler,1
+"3750 Foco Rd PO Box 1131, Standish, MI 48658",Shepherd,1
+"3853 Sparrow Drive , Ionia, MI 48846",Labrador Retriever,1
+"3881 S Tripp Rd , Osseo, MI 49266",Carolina Dog,1
+"3881 S Tripp Rd , Osseo, MI 49266",Feist,1
+"3881 S Tripp Rd , Osseo, MI 49266",Pit Bull Terrier,1
+"418 S. Highlander Way , Howell, MI 48843",Australian Cattle Dog / Blue Heeler,1
+"418 S. Highlander Way , Howell, MI 48843",Boxer,1
+"418 S. Highlander Way , Howell, MI 48843",Husky,1
+"4371 E. Ashman , Midland, MI 48641",Boxer,1
+"4371 E. Ashman , Midland, MI 48641",Labrador Retriever,1
+"4371 E. Ashman , Midland, MI 48641",Shepherd,1
+"457 W. Traverse Bay Rd. , Lincoln, MI 48742",Pit Bull Terrier,1
+"4660 M-88 Hwy PO Box 568, Bellaire, MI 49615",Black Mouth Cur,1
+"4660 M-88 Hwy PO Box 568, Bellaire, MI 49615",Boxer,1
+"4660 M-88 Hwy PO Box 568, Bellaire, MI 49615",Staffordshire Bull Terrier,1
+"502 N. SAVIDGE , Reed City, MI 49677",American Staffordshire Terrier,1
+"502 N. SAVIDGE , Reed City, MI 49677",Black and Tan Coonhound,1
+"502 N. SAVIDGE , Reed City, MI 49677",Chocolate Labrador Retriever,1
+"502 N. SAVIDGE , Reed City, MI 49677",German Shepherd Dog,1
+"502 N. SAVIDGE , Reed City, MI 49677",Mastiff,1
+"502 N. SAVIDGE , Reed City, MI 49677",Saint Bernard,1
+"51299 Arkona Rd. , Belleville, MI 48111",American Bulldog,1
+"51299 Arkona Rd. , Belleville, MI 48111",Australian Cattle Dog / Blue Heeler,1
+"51299 Arkona Rd. , Belleville, MI 48111",Hound,1
+"5205 Airline Rd , Muskegon, MI 49443",Airedale Terrier,1
+"5205 Airline Rd , Muskegon, MI 49443",American Staffordshire Terrier,1
+"5205 Airline Rd , Muskegon, MI 49443",Caucasian Sheepdog / Caucasian Ovtcharka,1
+"5205 Airline Rd , Muskegon, MI 49443",Chihuahua,1
+"5205 Airline Rd , Muskegon, MI 49443",German Shepherd Dog,1
+"5205 Airline Rd , Muskegon, MI 49443",Pit Bull Terrier,1
+"5205 Airline Rd , Muskegon, MI 49443",Pointer,1
+"5205 Airline Rd , Muskegon, MI 49443",Rottweiler,1
+"5205 Airline Rd , Muskegon, MI 49443",Shiba Inu,1
+"5205 Airline Rd , Muskegon, MI 49443",Terrier,1
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Bluetick Coonhound,1
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Catahoula Leopard Dog,1
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Labrador Retriever,1
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Pharaoh Hound,1
+"5310 W. Houghton Lake Rd (M-55) P.O. Box D, Lake City, MI 49651",Shepherd,1
+"600 Buhl St , Mason, MI 48854",Border Collie,1
+"600 Buhl St , Mason, MI 48854",Doberman Pinscher,1
+"614 Beardsley St. , Boyne City, MI 49712",Hound,1
+"614 Beardsley St. , Boyne City, MI 49712",Irish Wolfhound,1
+"614 Beardsley St. , Boyne City, MI 49712",Labrador Retriever,1
+"614 Beardsley St. , Boyne City, MI 49712",Pointer,1
+"614 Beardsley St. , Boyne City, MI 49712",Retriever,1
+"6266 Lapeer Road , Clyde, MI 48049",Labrador Retriever,1
+"6266 Lapeer Road , Clyde, MI 48049",Norwegian Elkhound,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Australian Shepherd,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Beagle,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Boxer,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Catahoula Leopard Dog,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Chihuahua,1
+"740 Fuller Ave. NE , Grand Rapids, MI 49503",Hound,1
+"7401 Chrysler Dr. , Detroit, MI 48211",Mixed Breed,1
+"7887 Chrysler Drive , Detroit, MI 48211",Pomeranian,1
+"7887 Chrysler Drive , Detroit, MI 48211",Terrier,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Akita,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",American Bulldog,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Australian Kelpie,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Black Labrador Retriever,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Boxer,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Cane Corso,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Coonhound,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Dachshund,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Great Pyrenees,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Hound,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Husky,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Mountain Cur,1
+"8935 Thompson Rd. , Lake Odessa, MI 48849",Spaniel,1
+"969 Wildwood Rd , Quincy, MI 49082",American Bulldog,1
+"969 Wildwood Rd , Quincy, MI 49082",Basset Hound,1
+"969 Wildwood Rd , Quincy, MI 49082",Cattle Dog,1
+"969 Wildwood Rd , Quincy, MI 49082",Mixed Breed,1
+"969 Wildwood Rd , Quincy, MI 49082",Treeing Walker Coonhound,1
+"Ann Arbor, MI 48105",Coonhound,1
+"Ann Arbor, MI 48105",Shepherd,1
+"Battle Creek, MI 49016",American Staffordshire Terrier,1
+"Bay City, MI 48706",Boxer,1
+"Bay City, MI 48706",Labrador Retriever,1
+"Bay City, MI 48706",Pit Bull Terrier,1
+"Belleville, MI 48111",Akita,1
+"Belleville, MI 48111",English Shepherd,1
+"Belleville, MI 48111",Pit Bull Terrier,1
+"Beulah, MI 49617",Siberian Husky,1
+"Birmingham, MI 48012",Australian Shepherd,1
+"Birmingham, MI 48012",Black Labrador Retriever,1
+"Birmingham, MI 48012",Doberman Pinscher,1
+"Birmingham, MI 48012",Great Dane,1
+"Birmingham, MI 48012",Great Pyrenees,1
+"Birmingham, MI 48012",Pit Bull Terrier,1
+"Birmingham, MI 48012",Whippet,1
+"Bloomfield Township, MI 48302",Mixed Breed,1
+"CLINTON TOWNSHIP, MI 48035",American Staffordshire Terrier,1
+"CLINTON TOWNSHIP, MI 48035",Cattle Dog,1
+"CLINTON TOWNSHIP, MI 48035",Miniature Pinscher,1
+"CLINTON TOWNSHIP, MI 48035",Shepherd,1
+"CLINTON TOWNSHIP, MI 48035",Yellow Labrador Retriever,1
+"Canton , MI 48187",Bernese Mountain Dog,1
+"Cedar Springs, MI 49319",Labrador Retriever,1
+"Cedar Springs, MI 49319",Pit Bull Terrier,1
+"Charlotte, MI 48813",Black Mouth Cur,1
+"Charlotte, MI 48813",Pit Bull Terrier,1
+"Charlotte, MI 48813",Staffordshire Bull Terrier,1
+"Chesterfield, MI 48047",Jack Russell Terrier,1
+"Clinton Township, MI 48036",American Bulldog,1
+"Clinton Township, MI 48036",English Bulldog,1
+"Clinton Township, MI 48036",German Shepherd Dog,1
+"Clinton, MI 49236",Beagle,1
+"Clinton, MI 49236",Foxhound,1
+"Coldwater, MI 49036",Australian Shepherd,1
+"Coldwater, MI 49036",Chihuahua,1
+"Coldwater, MI 49036",Chiweenie,1
+"Coldwater, MI 49036",German Shepherd Dog,1
+"Coldwater, MI 49036",Great Pyrenees,1
+"Coldwater, MI 49036",Plott Hound,1
+"Coldwater, MI 49036",Terrier,1
+"Coldwater, MI 49036",Yellow Labrador Retriever,1
+"Deerfield, MI 49238",Pit Bull Terrier,1
+"Detroit, MI 48202",Akita,1
+"Detroit, MI 48202",Boxer,1
+"Detroit, MI 48202",Cairn Terrier,1
+"Detroit, MI 48202",Carolina Dog,1
+"Detroit, MI 48202",Chow Chow,1
+"Detroit, MI 48202",Hound,1
+"Detroit, MI 48202",Mastiff,1
+"Detroit, MI 48202",Norwegian Elkhound,1
+"Detroit, MI 48202",Poodle,1
+"Detroit, MI 48202",Rottweiler,1
+"Detroit, MI 48202",Shih Tzu,1
+"Detroit, MI 48206",Australian Shepherd,1
+"Detroit, MI 48216",Australian Shepherd,1
+"Detroit, MI 48216",Basset Hound,1
+"Detroit, MI 48216",Black Labrador Retriever,1
+"Detroit, MI 48216",Bull Terrier,1
+"Detroit, MI 48216",Poodle,1
+"Detroit, MI 48216",Retriever,1
+"Detroit, MI 48216",Rottweiler,1
+"Detroit, MI 48216",Shepherd,1
+"Detroit, MI 48216",Siberian Husky,1
+"Detroit, MI 48219",American Bulldog,1
+"Detroit, MI 48219",Boxer,1
+"Detroit, MI 48219",Collie,1
+"Detroit, MI 48219",English Pointer,1
+"Detroit, MI 48219",Poodle,1
+"Detroit, MI 48219",Retriever,1
+"Detroit, MI 48219",Shar-Pei,1
+"Detroit, MI 48219",Yellow Labrador Retriever,1
+"Detroit, MI 48221",Bull Terrier,1
+"Detroit, MI 48221",Staffordshire Bull Terrier,1
+"Detroit, MI 48232",Australian Cattle Dog / Blue Heeler,1
+"Detroit, MI 48232",Black Labrador Retriever,1
+"Detroit, MI 48232",Mixed Breed,1
+"Detroit, MI 48234",Great Dane,1
+"East Lansing, MI 48823",Chihuahua,1
+"East Lansing, MI 48823",Hound,1
+"East Lansing, MI 48823",Pit Bull Terrier,1
+"Eastpointe, MI 48021",American Bulldog,1
+"Eastpointe, MI 48021",Border Collie,1
+"Eastpointe, MI 48021",German Shepherd Dog,1
+"Farmington Hills, MI 48336",American Staffordshire Terrier,1
+"Fennville, MI 49408",Dogo Argentino,1
+"Ferndale, MI 48220",Cattle Dog,1
+"Ferndale, MI 48220",Chihuahua,1
+"Ferndale, MI 48220",Great Pyrenees,1
+"Ferndale, MI 48220",Husky,1
+"Ferndale, MI 48220",Shepherd,1
+"Ferndale, MI 48220",Siberian Husky,1
+"Ferndale, MI 48220",White German Shepherd,1
+"Ferndale, MI 48220",Yellow Labrador Retriever,1
+"Ferndale, MI 48220",Yorkshire Terrier,1
+"Flint, MI 48503",Mastiff,1
+"Flint, MI 48503",Pit Bull Terrier,1
+"Fowlerville, MI 48836",Shih Tzu,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",American Staffordshire Terrier,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Boxer,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Hound,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Labrador Retriever,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Pit Bull Terrier,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Pointer,1
+"G-4351 W Pasadena Avenue , Flint, MI 48504",Shar-Pei,1
+"Gaylord, MI 49735",Siberian Husky,1
+"Gladwin, MI 48624",Dachshund,1
+"Grand Rapids, MI 49505",Boxer,1
+"Grand Rapids, MI 49505",Dogue de Bordeaux,1
+"Grand Rapids, MI 49505",German Shorthaired Pointer,1
+"Grand Rapids, MI 49505",Great Pyrenees,1
+"Grand Rapids, MI 49505",Shih Tzu,1
+"Grand Rapids, MI 49505",Terrier,1
+"Grand Rapids, MI 49507",Labrador Retriever,1
+"Grand Rapids, MI 49507",Pit Bull Terrier,1
+"Grand Rapids, MI 49525",American Staffordshire Terrier,1
+"Grand Rapids, MI 49548",German Pinscher,1
+"Grand Rapids, MI 49548",Pit Bull Terrier,1
+"Grass Lake, MI 49240",Bernedoodle,1
+"Grayling, MI 49738",Siberian Husky,1
+"Grosse Pointe Park, MI 48230",Papillon,1
+"Grosse Pointe Park, MI 48230",Spaniel,1
+"Harrison, MI 48625",Australian Shepherd,1
+"Harrison, MI 48625",Black Labrador Retriever,1
+"Harrison, MI 48625",Feist,1
+"Harrison, MI 48625",Italian Greyhound,1
+"Harrison, MI 48625",Pit Bull Terrier,1
+"Harrison, MI 48625",Shar-Pei,1
+"Harrison, MI 48625",Shepherd,1
+"Holly, MI 48442",American Bulldog,1
+"Holly, MI 48442",American Staffordshire Terrier,1
+"Holly, MI 48442",Boxer,1
+"Holly, MI 48442",French Bulldog,1
+"Holly, MI 48442",Pit Bull Terrier,1
+"Holly, MI 48442",Staffordshire Bull Terrier,1
+"Howell, MI 48844",American Staffordshire Terrier,1
+"Howell, MI 48844",Chihuahua,1
+"Howell, MI 48844",Rat Terrier,1
+"Imlay City, MI 48444",German Shepherd Dog,1
+"Imlay City, MI 48444",Shepherd,1
+"Jackson, MI 49201",Jack Russell Terrier,1
+"Jackson, MI 49202",Anatolian Shepherd,1
+"Jackson, MI 49202",Staffordshire Bull Terrier,1
+"Kalamazoo, MI 49001",Siberian Husky,1
+"Kentwood, MI 49508",Bloodhound,1
+"Kentwood, MI 49548",Border Collie,1
+"Kentwood, MI 49548",Boxer,1
+"Kentwood, MI 49548",Chihuahua,1
+"Kentwood, MI 49548",Mountain Cur,1
+"Kentwood, MI 49548",Shar-Pei,1
+"Kentwood, MI 49548",Staffordshire Bull Terrier,1
+"Kentwood, MI 49548",Treeing Walker Coonhound,1
+"Kimball, MI 48074",Jack Russell Terrier,1
+"Kimball, MI 48074",Labrador Retriever,1
+"Kimball, MI 48074",Pomsky,1
+"Kimball, MI 48074",Poodle,1
+"Kingsley, MI 49649",Akita,1
+"Lansing, MI 48911",Boxer,1
+"Lansing, MI 48911",German Shepherd Dog,1
+"Lansing, MI 48917",American Staffordshire Terrier,1
+"Lincoln Park, MI 48146",Husky,1
+"Lincoln Park, MI 48146",Labrador Retriever,1
+"Lincoln Park, MI 48146",Pit Bull Terrier,1
+"Linden, MI 48451",Australian Cattle Dog / Blue Heeler,1
+"Linden, MI 48451",Wheaten Terrier,1
+"Livonia, MI 48150",Shih Tzu,1
+"Livonia, MI 48152",Australian Shepherd,1
+"Livonia, MI 48152",Boxer,1
+"Livonia, MI 48152",Cattle Dog,1
+"Livonia, MI 48152",Coonhound,1
+"Livonia, MI 48152",Dachshund,1
+"Livonia, MI 48152",Dutch Shepherd,1
+"Livonia, MI 48152",Feist,1
+"Livonia, MI 48152",German Shepherd Dog,1
+"Livonia, MI 48152",Golden Retriever,1
+"Livonia, MI 48152",Hound,1
+"Livonia, MI 48152",Mastiff,1
+"Livonia, MI 48152",Miniature Pinscher,1
+"Livonia, MI 48152",Pomeranian,1
+"Livonia, MI 48152",Shiba Inu,1
+"Livonia, MI 48152",Silky Terrier,1
+"Livonia, MI 48152",Staffordshire Bull Terrier,1
+"Ludington, MI 49431",Pit Bull Terrier,1
+"Macomb, MI 48042",Beagle,1
+"Macomb, MI 48042",Bernese Mountain Dog,1
+"Macomb, MI 48042",Boxer,1
+"Macomb, MI 48042",Hound,1
+"Macomb, MI 48042",Husky,1
+"Macomb, MI 48042",Mastiff,1
+"Mancelona, MI 49659",Dachshund,1
+"Mancelona, MI 49659",English Setter,1
+"Mancelona, MI 49659",German Shepherd Dog,1
+"Mancelona, MI 49659",Pit Bull Terrier,1
+"Manistee, MI 49660",American Bully,1
+"Manistee, MI 49660",Australian Cattle Dog / Blue Heeler,1
+"Manistee, MI 49660",Chocolate Labrador Retriever,1
+"Marine City, MI 48039",Husky,1
+"Mason, MI 48854",Siberian Husky,1
+"Metamora, MI 48455",Husky,1
+"Midland, MI 48642",Australian Shepherd,1
+"Milan, MI 48160",American Bully,1
+"Milan, MI 48160",German Shepherd Dog,1
+"Monroe, MI 48161",Boxer,1
+"Muskegon, MI 49442",American Bulldog,1
+"Muskegon, MI 49442",American Staffordshire Terrier,1
+"Muskegon, MI 49442",Australian Cattle Dog / Blue Heeler,1
+"Muskegon, MI 49442",Basset Hound,1
+"Muskegon, MI 49442",Beagle,1
+"Muskegon, MI 49442",Bull Terrier,1
+"Muskegon, MI 49442",Bullmastiff,1
+"Muskegon, MI 49442",Carolina Dog,1
+"Muskegon, MI 49442",Corgi,1
+"Muskegon, MI 49442",Dutch Shepherd,1
+"Muskegon, MI 49442",Fox Terrier,1
+"Muskegon, MI 49442",Foxhound,1
+"Muskegon, MI 49442",Manchester Terrier,1
+"Muskegon, MI 49442",Rat Terrier,1
+"Muskegon, MI 49442",Treeing Walker Coonhound,1
+"New Baltimore, MI 48047",American Bulldog,1
+"Northville, MI 48167",American Bully,1
+"Northville, MI 48167",American Staffordshire Terrier,1
+"Northville, MI 48167",Pit Bull Terrier,1
+"Oak Park, MI 48237",American Bully,1
+"Oak Park, MI 48237",Dogo Argentino,1
+"Oak Park, MI 48237",Mixed Breed,1
+"Oak Park, MI 48237",Retriever,1
+"Oak Park, MI 48237",Staffordshire Bull Terrier,1
+"Oakland, MI 48363",Goldendoodle,1
+"Oakland, MI 48363",Labrador Retriever,1
+"Ortonville, MI 48462",German Shepherd Dog,1
+"Oxford, MI 48371",Boxer,1
+"Oxford, MI 48371",Chihuahua,1
+"Oxford, MI 48371",Dachshund,1
+"Oxford, MI 48371",Flat-Coated Retriever,1
+"Oxford, MI 48371",Labrador Retriever,1
+"Oxford, MI 48371",Shih Tzu,1
+"Oxford, MI 48371",Yellow Labrador Retriever,1
+"P.O. Box 190121 , Burton, MI 48519",Australian Cattle Dog / Blue Heeler,1
+"P.O. Box 190121 , Burton, MI 48519",Black Mouth Cur,1
+"P.O. Box 190121 , Burton, MI 48519",Labrador Retriever,1
+"P.O. Box 190121 , Burton, MI 48519",Staffordshire Bull Terrier,1
+"P.O. Box 27 (mailing address) 3847 Sheldon, Carsonville, MI 48419",Mixed Breed,1
+"P.O. Box 29 , Armada, MI 48005",Yorkshire Terrier,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Black Labrador Retriever,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Black Mouth Cur,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Border Collie,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Hound,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Jack Russell Terrier,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Labrador Retriever,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Shepherd,1
+"P.O. Box 384 5786 Fairground Lane, Grayling, MI 49738",Staffordshire Bull Terrier,1
+"P.O. Box 51935 , Livonia, MI 48151",American Staffordshire Terrier,1
+"P.O. Box 51935 , Livonia, MI 48151",Boston Terrier,1
+"P.O. Box 51935 , Livonia, MI 48151",Cane Corso,1
+"P.O. Box 51935 , Livonia, MI 48151",Hound,1
+"P.O. Box 51935 , Livonia, MI 48151",Jack Russell Terrier,1
+"P.O. Box 51935 , Livonia, MI 48151",Labrador Retriever,1
+"P.O. Box 51935 , Livonia, MI 48151",Staffordshire Bull Terrier,1
+"P.O. Box 51935 , Livonia, MI 48151",Terrier,1
+"P.O. Box 83 , Coldwater, MI 49036",American Staffordshire Terrier,1
+"P.O. Box 83 , Coldwater, MI 49036",Beagle,1
+"P.O. Box 83 , Coldwater, MI 49036",Great Dane,1
+"P.O. Box 83 , Coldwater, MI 49036",Jack Russell Terrier,1
+"P.O. Box 83 , Coldwater, MI 49036",Miniature Pinscher,1
+"PETCO STORE   23 Mile Road & Gratiot , Macomb, MI 48042",Australian Cattle Dog / Blue Heeler,1
+"PO BOX 1 , Trufant, MI 49347",Shih Tzu,1
+"PO BOX 1 , Trufant, MI 49347",Yorkshire Terrier,1
+"PO Box 180155 , Utica, MI 48318",Australian Cattle Dog / Blue Heeler,1
+"PO Box 180155 , Utica, MI 48318",Australian Shepherd,1
+"PO Box 180155 , Utica, MI 48318",Border Collie,1
+"PO Box 180155 , Utica, MI 48318",Boxer,1
+"PO Box 180155 , Utica, MI 48318",Coonhound,1
+"PO Box 180155 , Utica, MI 48318",Mixed Breed,1
+"PO Box 180155 , Utica, MI 48318",Shih Tzu,1
+"PO Box 251 , Paw Paw, MI 49079",Bichon Frise,1
+"PO Box 251 , Paw Paw, MI 49079",Terrier,1
+"PO Box 264 , Linwood, MI 48634",Labrador Retriever,1
+"PO Box 264 , Linwood, MI 48634",Pit Bull Terrier,1
+"PO Box 285 , Frankenmuth, MI 48734",Labrador Retriever,1
+"PO Box 285 , Frankenmuth, MI 48734",Staffordshire Bull Terrier,1
+"PO Box 32 , Howell, MI 48844",Mixed Breed,1
+"PO Box 3295 2938 Business One Drive, Kalamazoo, MI 49003",Shar-Pei,1
+"PO Box 3295 2938 Business One Drive, Kalamazoo, MI 49003",Shih Tzu,1
+"PO Box 475 7645 West 48th Street, Fremont, MI 49412",Labrador Retriever,1
+"PO Box 475 7645 West 48th Street, Fremont, MI 49412",Miniature Pinscher,1
+"PO Box 606 , Garden City, MI 48136",Black Mouth Cur,1
+"PO Box 606 , Garden City, MI 48136",Jack Russell Terrier,1
+"PO Box 606 , Garden City, MI 48136",Shepherd,1
+"PO Box 62 , Lake Orion, MI 48361",American Bulldog,1
+"PO Box 62 , Lake Orion, MI 48361",Beagle,1
+"PO Box 62 , Lake Orion, MI 48361",Black Labrador Retriever,1
+"PO Box 62 , Lake Orion, MI 48361",Black and Tan Coonhound,1
+"PO Box 62 , Lake Orion, MI 48361",Border Collie,1
+"PO Box 62 , Lake Orion, MI 48361",Corgi,1
+"PO Box 62 , Lake Orion, MI 48361",Pug,1
+"PO Box 62 , Lake Orion, MI 48361",Retriever,1
+"PO Box 62 , Lake Orion, MI 48361",Shepherd,1
+"PO Box 62 , Lake Orion, MI 48361",Staffordshire Bull Terrier,1
+"PO Box 673 , Richland, MI 49083",Terrier,1
+"PO Box 7056 , Huntington Woods, MI 48070",Chihuahua,1
+"PO Box 7056 , Huntington Woods, MI 48070",Retriever,1
+"PO Box 7056 , Huntington Woods, MI 48070",Shepherd,1
+"Pigeon, MI 48755",Feist,1
+"Pigeon, MI 48755",Shepherd,1
+"Plymouth, MI 48170",American Bulldog,1
+"Plymouth, MI 48170",American Staffordshire Terrier,1
+"Plymouth, MI 48170",Basset Hound,1
+"Plymouth, MI 48170",Boxer,1
+"Plymouth, MI 48170",Cocker Spaniel,1
+"Plymouth, MI 48170",Coonhound,1
+"Plymouth, MI 48170",Schnauzer,1
+"Plymouth, MI 48170",Shih Tzu,1
+"Pontiac, MI 48341",American Bulldog,1
+"Pontiac, MI 48341",Chihuahua,1
+"Pontiac, MI 48341",Hound,1
+"Pontiac, MI 48341",Labrador Retriever,1
+"Portland, MI 48875",Doberman Pinscher,1
+"Ray, MI 48096",Shar-Pei,1
+"Reed City, MI 49677",Boxer,1
+"Reed City, MI 49677",Labrador Retriever,1
+"Reed City, MI 49677",Pit Bull Terrier,1
+"Rochester Hills, MI 48309",Pit Bull Terrier,1
+"Rochester Hills, MI 48309",Shepherd,1
+"Saginaw, MI 48602",Akita,1
+"Saginaw, MI 48602",American Bulldog,1
+"Saginaw, MI 48602",Australian Cattle Dog / Blue Heeler,1
+"Saginaw, MI 48602",Bluetick Coonhound,1
+"Saginaw, MI 48602",Boxer,1
+"Saginaw, MI 48602",Chow Chow,1
+"Saginaw, MI 48602",Foxhound,1
+"Saginaw, MI 48602",Redbone Coonhound,1
+"Saginaw, MI 48602",Siberian Husky,1
+"Saginaw, MI 48602",Treeing Walker Coonhound,1
+"Saginaw, MI 48603",Boston Terrier,1
+"Saginaw, MI 48603",German Shepherd Dog,1
+"Saginaw, MI 48603",Husky,1
+"Saginaw, MI 48603",Labrador Retriever,1
+"Saginaw, MI 48603",Mixed Breed,1
+"Saugatuck, MI 49453",Great Pyrenees,1
+"South Lyon, MI 48178",Cockapoo,1
+"South Lyon, MI 48178",Cocker Spaniel,1
+"South Lyon, MI 48178",Jack Russell Terrier,1
+"St Johns, MI 48879",Terrier,1
+"Temperance, MI 48182",English Setter,1
+"Traverse City, MI 49684",Carolina Dog,1
+"Traverse City, MI 49696",American Staffordshire Terrier,1
+"Traverse City, MI 49696",Border Collie,1
+"Traverse City, MI 49696",Hound,1
+"Traverse City, MI 49696",Labrador Retriever,1
+"Traverse City, MI 49696",Pit Bull Terrier,1
+"Traverse City, MI 49696",Staffordshire Bull Terrier,1
+"Troy, MI 48083",Pit Bull Terrier,1
+"Troy, MI 48083",Shepherd,1
+"Troy, MI 48099",Labrador Retriever,1
+"Troy, MI 48099",Mastiff,1
+"Troy, MI 48099",Pit Bull Terrier,1
+"Warren, MI 48089",Australian Shepherd,1
+"Warren, MI 48089",Beagle,1
+"Warren, MI 48089",Catahoula Leopard Dog,1
+"Warren, MI 48089",Cattle Dog,1
+"Warren, MI 48089",English Springer Spaniel,1
+"Warren, MI 48089",Great Pyrenees,1
+"Warren, MI 48089",Miniature Pinscher,1
+"Warren, MI 48089",Pointer,1
+"Warren, MI 48089",Pug,1
+"Warren, MI 48089",Rat Terrier,1
+"Warren, MI 48089",Rottweiler,1
+"Warren, MI 48089",Shar-Pei,1
+"Warren, MI 48091",Chihuahua,1
+"Warren, MI 48091",Miniature Pinscher,1
+"Warren, MI 48091",Mixed Breed,1
+"West Bloomfield, MI 48325",American Staffordshire Terrier,1
+"West Bloomfield, MI 48325",Mixed Breed,1
+"Westland, MI 48185",American Bulldog,1
+"Westland, MI 48185",Boxer,1
+"Westland, MI 48185",Husky,1
+"Westland, MI 48186",Siberian Husky,1
+"White Lake, MI 48383",Siberian Husky,1
+"White Lake, MI 48386",American Bulldog,1
+"White Lake, MI 48386",Australian Kelpie,1
+"White Lake, MI 48386",Black Mouth Cur,1
+"White Lake, MI 48386",Catahoula Leopard Dog,1
+"White Lake, MI 48386",Chihuahua,1
+"White Lake, MI 48386",Pug,1
+"White Lake, MI 48386",Terrier,1
+"White Lake, MI 48386",Whippet,1
+"Wyandotte, MI 48192",German Shepherd Dog,1
+"Wyandotte, MI 48192",Shepherd,1
+"Ypsilanti, MI 48197",Labrador Retriever,1
+"fennville, MI 49408",American Bully,1
+"fennville, MI 49408",American Staffordshire Terrier,1
+"fennville, MI 49408",Australian Cattle Dog / Blue Heeler,1
+"fennville, MI 49408",Black Labrador Retriever,1
+"fennville, MI 49408",Chihuahua,1
+"fennville, MI 49408",Coton de Tulear,1
+"fennville, MI 49408",German Shepherd Dog,1
+"fennville, MI 49408",Great Pyrenees,1
+"fennville, MI 49408",Husky,1
+"fennville, MI 49408",Labrador Retriever,1
+"fennville, MI 49408",Mixed Breed,1
+"fennville, MI 49408",Plott Hound,1
+"fennville, MI 49408",Shepherd,1
+"fennville, MI 49408",Vizsla,1
+"fennville, MI 49408",Yellow Labrador Retriever,1
+"l536 Hackleburg Road , Cheboygan, MI 49721",Black Labrador Retriever,1
+"l536 Hackleburg Road , Cheboygan, MI 49721",Chocolate Labrador Retriever,1
+"l536 Hackleburg Road , Cheboygan, MI 49721",Coonhound,1
+"l536 Hackleburg Road , Cheboygan, MI 49721",Hound,1
+"l536 Hackleburg Road , Cheboygan, MI 49721",Labrador Retriever,1
